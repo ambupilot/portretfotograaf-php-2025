@@ -9,12 +9,28 @@
   ],
   "creatorBuild" : "34592",
   "files" : {
+    "\/.env" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.env",
+      "oF" : 0
+    },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/.gitignore",
+      "oF" : 0
+    },
+    "\/.htaccess" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.htaccess",
       "oF" : 0
     },
     "\/boudoir.php" : {
@@ -65,6 +81,18 @@
       "oAP" : "\/contact.php",
       "oF" : 0
     },
+    "\/css\/input-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/input-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/css\/input.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -96,6 +124,14 @@
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
+    },
+    "\/env.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/env.php",
+      "oF" : 0
     },
     "\/familie.php" : {
       "cB" : 0,
